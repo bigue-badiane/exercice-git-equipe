@@ -1,6 +1,7 @@
-Patients de SenSante 
+# Assistant IA
 
-listes des patients a gerer 
-1. Aminata Sow dakar 34 ans 
-2.Ibrahima ba thies 45ans 
-3.awa diallo saint-louis 28ans 
+1. Quels sont les symptômes courants du paludisme en zone tropicale ?
+2. Quand orienter un patient vers une consultation spécialisée urgente ?
+3. Quels médicaments sont contre-indiqués chez la femme enceinte ?Patients de SenSante 
+
+
